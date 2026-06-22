@@ -1,0 +1,16 @@
+D:\yazluxe_shopping_mart\YazLuxe-Shopping-Mart\src\main\java\commerce\model\orders.java
+D:\yazluxe_shopping_mart\YazLuxe-Shopping-Mart\src\main\java\commerce\servlet\cancelorderservlet.java
+D:\yazluxe_shopping_mart\YazLuxe-Shopping-Mart\src\main\java\commerce\servlet\removefromcartservlet.java
+D:\yazluxe_shopping_mart\YazLuxe-Shopping-Mart\src\main\java\commerce\model\cart.java
+D:\yazluxe_shopping_mart\YazLuxe-Shopping-Mart\src\main\java\commerce\model\product.java
+D:\yazluxe_shopping_mart\YazLuxe-Shopping-Mart\src\main\java\commerce\jdbc_conn\dbcon.java
+D:\yazluxe_shopping_mart\YazLuxe-Shopping-Mart\src\main\java\commerce\dao\orderdao.java
+D:\yazluxe_shopping_mart\YazLuxe-Shopping-Mart\src\main\java\commerce\dao\productdao.java
+D:\yazluxe_shopping_mart\YazLuxe-Shopping-Mart\src\main\java\commerce\dao\userdao.java
+D:\yazluxe_shopping_mart\YazLuxe-Shopping-Mart\src\main\java\commerce\servlet\checkoutservlet.java
+D:\yazluxe_shopping_mart\YazLuxe-Shopping-Mart\src\main\java\commerce\servlet\logoutservlet.java
+D:\yazluxe_shopping_mart\YazLuxe-Shopping-Mart\src\main\java\commerce\servlet\loginservlet.java
+D:\yazluxe_shopping_mart\YazLuxe-Shopping-Mart\src\main\java\commerce\model\user.java
+D:\yazluxe_shopping_mart\YazLuxe-Shopping-Mart\src\main\java\commerce\servlet\ordernowservlet.java
+D:\yazluxe_shopping_mart\YazLuxe-Shopping-Mart\src\main\java\commerce\servlet\addtocartservlet.java
+D:\yazluxe_shopping_mart\YazLuxe-Shopping-Mart\src\main\java\commerce\servlet\quantityincdecservlet.java
