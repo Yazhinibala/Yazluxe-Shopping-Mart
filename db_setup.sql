@@ -3,9 +3,6 @@
 --  Run this in MySQL Workbench or MySQL CLI before starting the app
 -- ============================================================
 
-CREATE DATABASE IF NOT EXISTS commerce_website;
-USE commerce_website;
-
 -- Users table
 CREATE TABLE IF NOT EXISTS users (
     id       INT AUTO_INCREMENT PRIMARY KEY,
